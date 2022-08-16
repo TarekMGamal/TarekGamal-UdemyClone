@@ -1,0 +1,67 @@
+{
+    "python" : [
+        {
+          "id": 1,
+          "title": "Learn Python: The Complete Python Programming Course",
+          "author": "Avinash Jain,The Codex",
+          "image": "images/Udemy_logo_7.png",
+          "price": "E£679.99",
+          "rating": 4.0,
+          "people": "2,948"
+        },
+        {
+          "id": 2,
+          "title": "Learning Python for Data Analysis and Visualization",
+          "author": "Jose Portilla",
+          "image": "images/Udemy_logo_8.png",
+          "price": "E£1,599.99",
+          "rating": 4.0,
+          "people": "17,999"
+        },
+        {
+          "id": 3,
+          "title": "Python for Beginners - Learn Programming from scratch",
+          "author": "Edwin Diaz, Coding FAcutly Solutaions",
+          "image": "images/Udemy_logo_9.png",
+          "price": "E£679.99",
+          "rating": 3.0,
+          "people": "1,781"
+        },
+        {
+          "id": 4,
+          "title": "Learn Python: Python for Beginners",
+          "author": "Abrar Hussain",
+          "image": "images/Udemy_logo_10.png",
+          "price": "E£319.99",
+          "rating": 2.0,
+          "people": "2,773"
+        },
+        {
+          "id": 5,
+          "image": "images/Udemy_logo_11.png",
+          "title": "Python Beyond the Basics - Object-Oriented Programming",
+          "author": "Infinite Skills",
+          "price": "E£519.99",
+          "rating": 5.0,
+          "people": "2,930"
+        },
+        {
+          "id": 6,
+          "image": "images/Udemy_logo_12.png",
+          "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+          "author": "Admas Kinfu",
+          "price": "E£1,299.99",
+          "rating": 1.0,
+          "people": "1,813"
+        },
+        {
+          "id": 7,
+          "image": "images/Udemy_logo_13.png",
+          "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+          "author": "Bryson Payne",
+          "price": "E£319.99",
+          "rating": 2.0,
+          "people": "8,809"
+        }
+      ]
+}
