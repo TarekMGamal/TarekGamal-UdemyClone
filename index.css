@@ -197,6 +197,17 @@
   object-fit: cover;
 }
 
+.carousel-control-prev,
+.carousel-control-next {
+  width: 3% !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black;
+  border-radius: 100%;
+}
+
 .show-in-small-screen {
   display: none;
 }

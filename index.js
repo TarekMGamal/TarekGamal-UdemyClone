@@ -41,7 +41,7 @@ let getCourses = async () => {
 
   return courses;
 };
-getCourses();
+// getCourses();
 
 let coursesFilter = async (event) => {
   event.preventDefault();
@@ -62,4 +62,4 @@ let coursesFilter = async (event) => {
 };
 
 formInput.addEventListener("submit", coursesFilter);
-window.addEventListener("DOMContentLoaded", getCourses);
+// window.addEventListener("DOMContentLoaded", getCourses);
